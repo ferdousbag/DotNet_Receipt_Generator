@@ -1,0 +1,13 @@
+c:\users\ferdous parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\Small shop sells recipt generator.vbprojResolveAssemblyReference.cache
+c:\users\ferdous parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\Small shop sells recipt generator.vbproj.GenerateResource.Cache
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\sells recipt generator.exe.config
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\sells recipt generator.exe
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\sells recipt generator.pdb
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\sells recipt generator.xml
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\sells_recipt_generator.Form1.resources
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\sells_recipt_generator.Resources.resources
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\sells recipt generator.exe
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\sells recipt generator.xml
+C:\Users\Ferdous Parvez\documents\visual studio 2015\Projects\Small shop sells recipt generator\Small shop sells recipt generator\obj\Debug\sells recipt generator.pdb
